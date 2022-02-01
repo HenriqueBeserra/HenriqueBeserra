@@ -1,5 +1,6 @@
 # HENRIQUE BESERRA
-### Seja Bem vindo ao meu perfil do Github
+#### Seja Bem vindo ao meu perfil do Github
+##### Welcome to my GitHub profile <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
 
 <div>
 <a href="https://github.com/HenriqueBeserra">
