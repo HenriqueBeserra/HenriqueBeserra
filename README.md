@@ -4,7 +4,7 @@
 <div>
 <a href="https://github.com/HenriqueBeserra">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HenriqueBeserra&layout=compact&langs_count=7&theme=tokyonight"/>
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HenriqueBeserra&show_icons=true&theme=tokyonight)](https://github.com/HenriqueBeserra/github-readme-stats)
+
 </div>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HenriqueBeserra&show_icons=true&theme=tokyonight)](https://github.com/HenriqueBeserra/github-readme-stats)
