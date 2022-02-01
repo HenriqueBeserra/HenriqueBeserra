@@ -10,7 +10,7 @@
 <img height="160em" src="https://github-readme-stats.vercel.app/api?username=HenriqueBeserra&show_icons=true&theme=tokyonight&include_all_commits=true&"/>
 </div>
   
-### Estudo
+### Estudo:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="40" height="40"/>
