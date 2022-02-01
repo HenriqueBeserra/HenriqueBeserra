@@ -1,7 +1,7 @@
 # HENRIQUE BESERRA
 ### Seja Bem vindo ao meu perfil do Github
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HenriqueBeserra&show_icons=true&theme=onedark)](https://github.com/HenriqueBeserra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HenriqueBeserra&show_icons=true&theme=tokyonight)](https://github.com/HenriqueBeserra/github-readme-stats)
 
 ### Contatos:
 
