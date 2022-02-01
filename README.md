@@ -1,15 +1,15 @@
 # HENRIQUE BESERRA
-#### Seja Bem vindo ao meu perfil do Github
-##### Welcome to my GitHub profile    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="18" height="20"/>
+#### Seja Bem vindo ao meu perfil do Github ##### Welcome to my GitHub profile    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="18" height="20"/>
+
 
 
 <div>
 <a href="https://github.com/HenriqueBeserra">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HenriqueBeserra&layout=compact&langs_count=7&theme=tokyonight"/>
-
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=seu-usuário-aqui&show_icons=true&theme=tokyonight&include_all_commits=true&"/>
 </div>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HenriqueBeserra&show_icons=true&theme=tokyonight)](https://github.com/HenriqueBeserra/github-readme-stats)
+
 
 ### Contatos:
 
