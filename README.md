@@ -1,9 +1,9 @@
 # HENRIQUE BESERRA
-<img src="https://media-exp1.licdn.com/dms/image/C5616AQEGdk_XkQkeMg/profile-displaybackgroundimage-shrink_200_800/0/1643814217643?e=2147483647&v=beta&t=hJCIIK-a9Zq0hCogAQ4GLBb0XwPExp6xKVSfP-dKa2w"  width='90%' style="border-radius:35px;">
+<img src="https://media-exp1.licdn.com/dms/image/C5616AQEGdk_XkQkeMg/profile-displaybackgroundimage-shrink_200_800/0/1643814217643?e=2147483647&v=beta&t=hJCIIK-a9Zq0hCogAQ4GLBb0XwPExp6xKVSfP-dKa2w"  width='90%' >
 
 
 ### Seja Bem vindo ao meu perfil do Github  
-###### Welcome to my GitHub profile    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="18" height="20"/>
+#### Welcome to my GitHub profile    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="18" height="20"/>
 
 
 
