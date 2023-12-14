@@ -36,10 +36,10 @@ HenriqueBeserra/HenriqueBeserra is a ✨ special ✨ repository because its `REA
 You can click the Preview link to take a look at your changes.
 --->
 <img src="https://media-exp1.licdn.com/dms/image/C5616AQEGdk_XkQkeMg/profile-displaybackgroundimage-shrink_200_800/0/1643814217643?e=2147483647&v=beta&t=hJCIIK-a9Zq0hCogAQ4GLBb0XwPExp6xKVSfP-dKa2w"  width='90%' >
-<img align="center" border-radius="10px" style="margin-bottom:100px"  width="20%"  src='https://avatars.githubusercontent.com/u/76842548?v=4' &nbsp;&nbsp;&nbsp; />
 
 
-<p align="center">I ❤️ solve great challenges using tech. <br><br> From backend development using Flask to frontend development using ReactTS, I am <strong>passionate to discover new stuffs</strong> and use them to create high quality solutions. Today, I'm a <strong>full stack mid-level developer</strong> focused on web development.</p>&nbsp;
+
+<p align="center">Eu amo ser programador e saber que posso resolver problemas com tecnologia! <br><br> Estudo programação voltada para web desde p backend com node e typescript até o frontend com react.js e Bootstrap. Eu tenho paixão pr <strong>descobrir coisas novas e sou muito curioso quando se trata de entender como as coisas funcionam</strong> Encontrar a tecnologia,com certeza, foi o mach perfeito <strong>Atualmente sou Fullstack intermediário</strong> focado em engenhraia de software, cursando na Unifb Wydem</p>&nbsp;
 
 <div  align="center" style="margin-bottom:100px">
 <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=HenriqueBeserra&theme=radical&mode=weekly" />
