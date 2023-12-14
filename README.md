@@ -44,6 +44,7 @@ You can click the Preview link to take a look at your changes.
 <div  align="center" style="margin-bottom:100px">
 <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=HenriqueBeserra&theme=radical&mode=weekly" />
 <img width=40% align="center" src="https://github-readme-stats-git-main-HenriqueBeserra.vercel.app/api/top-langs/?username=HenriqueBeserra&show_icons=true&theme=radical&layout=compact" />
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HenriqueBeserra&layout=compact&langs_count=7&theme=tokyonight"/>
  </div>
  
 
