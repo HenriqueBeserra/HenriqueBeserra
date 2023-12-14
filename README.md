@@ -36,7 +36,7 @@ HenriqueBeserra/HenriqueBeserra is a ✨ special ✨ repository because its `REA
 You can click the Preview link to take a look at your changes.
 --->
 <img src="https://media-exp1.licdn.com/dms/image/C5616AQEGdk_XkQkeMg/profile-displaybackgroundimage-shrink_200_800/0/1643814217643?e=2147483647&v=beta&t=hJCIIK-a9Zq0hCogAQ4GLBb0XwPExp6xKVSfP-dKa2w"  width='90%' >
-<img align="center" style="margin-bottom:100px" width=100% src='https://avatars.githubusercontent.com/u/76842548?v=4' &nbsp;&nbsp;&nbsp;/>
+<img align="center" style="margin-bottom:100px" width=100% src='https://avatars.githubusercontent.com/u/76842548?v=4' &nbsp;&nbsp;&nbsp; width 10em/>
 
 
 <p align="center">I ❤️ solve great challenges using tech. <br><br> From backend development using Flask to frontend development using ReactTS, I am <strong>passionate to discover new stuffs</strong> and use them to create high quality solutions. Today, I'm a <strong>full stack mid-level developer</strong> focused on web development.</p>&nbsp;
