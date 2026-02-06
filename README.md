@@ -1,5 +1,5 @@
-<!---# HENRIQUE BESERRA <img src="https://cdn-icons-png.flaticon.com/512/7388/7388563.png" width="50px">
-<img src="https://media-exp1.licdn.com/dms/image/C5616AQEGdk_XkQkeMg/profile-displaybackgroundimage-shrink_200_800/0/1643814217643?e=2147483647&v=beta&t=hJCIIK-a9Zq0hCogAQ4GLBb0XwPExp6xKVSfP-dKa2w"  width='90%' >
+<!---# HENRIQUE BESERRA>
+<>
 
 
 ### Seja Bem vindo ao meu perfil do Github  
@@ -39,7 +39,11 @@ You can click the Preview link to take a look at your changes.
 
 
 
-<p align="center">Eu amo ser programador e saber que posso resolver problemas com tecnologia! <br><br> Estudo programação voltada para web desde o backend com node e typescript até o frontend com react.js e Bootstrap. Eu tenho paixão por <strong>descobrir coisas novas e sou muito curioso quando se trata de entender como as coisas funcionam</strong> Encontrar a tecnologia, com certeza, foi o mach perfeito. <strong> Atualmente sou Fullstack intermediário</strong> focado em engenhraia de software, cursando na Uni Fbv Wydem</p>&nbsp;
+<p align="center">Sou desenvolvedor Fullstack com experiência em aplicações web, atuando do backend com Node.js e TypeScript ao frontend com React.js. Tenho foco em engenharia de software, arquitetura e boas práticas, buscando sempre construir soluções escaláveis, organizadas e de fácil manutenção.
+
+Sou movido por curiosidade e pela necessidade de entender profundamente como as tecnologias funcionam. Acredito que programação vai além de escrever código: trata-se de resolver problemas reais com eficiência, clareza e responsabilidade técnica.
+
+Atualmente curso Engenharia de Software na Uni FBV Wyden e sigo em constante evolução técnica, aprimorando meus conhecimentos em desenvolvimento, estruturação de sistemas e qualidade de código.</p>&nbsp;
 
 <div  align="center" style="margin-bottom:100px">
 <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=HenriqueBeserra&theme=radical&mode=weekly" />
@@ -99,5 +103,5 @@ You can click the Preview link to take a look at your changes.
 
   
   
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8F0D87&height=120&section=footer"/>
+
 
