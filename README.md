@@ -20,9 +20,9 @@ Atualmente curso **Engenharia de Software na Uni FBV Wyden** e sigo aprofundando
 ## 🛠 Stack Principal
 
 - **Backend:** Node.js, TypeScript, Fastify, Express  
-- **Frontend:** React.js, Bootstrap  
+- **Frontend:** React.js, Tailwind 
 - **Banco de Dados:** PostgreSQL, MySQL, MongoDB  
-- **Ferramentas:** Docker, Git, Linux  
+- **Ferramentas:** Docker, Git, Linux, Drizzle, Zod 
 
 ---
 
