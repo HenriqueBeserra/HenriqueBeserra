@@ -1,7 +1,7 @@
 <h1 align="center">Henrique Beserra | Engenheiro de Software</h1>
 
 <p align="center">
-Desenvolvedor Fullstack com foco em Engenharia de Software, arquitetura e construção de aplicações web escaláveis.
+Engenharia de Software, desenvolvedor Fullstack com foco em backend, arquitetura e construção de aplicações web escaláveis.
 </p>
 
 ---
