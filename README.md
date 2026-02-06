@@ -29,8 +29,9 @@ Atualmente curso **Engenharia de Software na Uni FBV Wyden** e sigo aprofundando
 ## 📊 Estatísticas
 
 <div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=HenriqueBeserra&show_icons=true&theme=tokyonight&include_all_commits=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HenriqueBeserra&layout=compact&langs_count=7&theme=tokyonight"/>
+ ![Henrique's GitHub stats](https://github-readme-stats.vercel.app/api?username=HenriqueBeserra&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HenriqueBeserra&layout=compact&theme=tokyonight)
+
 </div>
 
 ---
